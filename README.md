@@ -1,6 +1,9 @@
 ## Hi there 👋
 Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
 
+## 42 Profile
+[![stescaro's 42 stats](https://badge.mediaplus.ma/greenbinary/stescaro?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ## 📊GitHub Stats
 <div style="display: flex; justify-content: center;">
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=stescaro99&theme=transparent&show_icons=true">
@@ -14,8 +17,6 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
   <img width="20%" src="https://komarev.com/ghpvc/?username=stescaro&label=PROFILE+VIEWS">
 </div>
 
-## 42 Profile
-[![stescaro's 42 stats](https://badge.mediaplus.ma/greenbinary/stescaro?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,cs,bash,linux,docker,git,github,vscode,ableton)](https://skillicons.dev)
