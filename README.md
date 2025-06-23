@@ -9,14 +9,17 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=stescaro99&theme=transparent&show_icons=true">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stescaro99&theme=transparent&layout=compact">
 
-  ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stescaro99&theme=transparent)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stescaro99&theme=transparent)
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stescaro99&theme=transparent">
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stescaro99&theme=transparent">
 
 </div>
-<div align="center">
-  <img width="20%" src="https://komarev.com/ghpvc/?username=stescaro&label=PROFILE+VIEWS">
-</div>
-
 
 ## 🛠️ Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,cs,bash,linux,docker,git,github,vscode,ableton)](https://skillicons.dev)
+
+<!--div align="center">
+  <img width="20%" src="https://komarev.com/ghpvc/?username=stescaro&label=PROFILE+VIEWS">
+</div>
+In GH Stats
+
+
