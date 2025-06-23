@@ -15,7 +15,7 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
 </div>
 
 ## 42 Profile
-[![stescaro's 42 stats](https://badge.mediaplus.ma/darkblue/stescaro?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![stescaro's 42 stats](https://badge.mediaplus.ma/greenbinary/stescaro?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🛠️ Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,cs,bash,linux,docker,git,github,vscode,ableton)](https://skillicons.dev)
