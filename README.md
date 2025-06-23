@@ -6,8 +6,8 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=stescaro99&theme=transparent&show_icons=true">
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stescaro99&theme=transparent&layout=compact">
 
-  ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stescaro99&theme=dracula)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stescaro99&theme=dracula)
+  ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stescaro99&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stescaro99&theme=github_dark)
 
 </div>
 <!-- Centered profile views counter -->
