@@ -4,8 +4,8 @@ I'm interested in game development and cybersecurity, but I love doing anything.
 
 ## GitHub Stats
 <div style="display: flex; justify-content: center;">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=stescaro&theme=transparent&show_icons=true">
-  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stescaro&theme=transparent&layout=compact">
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=stescaro99&theme=transparent&show_icons=true">
+  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stescaro99&theme=transparent&layout=compact">
 </div>
 <!-- Centered profile views counter -->
 <div align="center">
