@@ -7,10 +7,12 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
   <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stescaro99&theme=transparent&layout=compact">
 
   ![Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stescaro99&theme=dracula)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stescaro99&theme=dracula)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stescaro99&theme=dracula)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stescaro99&theme=dracula)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stescaro99&theme=dracula)
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stescaro99&theme=dracula" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stescaro99&theme=dracula" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stescaro99&theme=dracula" alt="Productive Time"/>
+</div>
 
 </div>
 <!-- Centered profile views counter -->
