@@ -4,10 +4,8 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
 [![stescaro's 42 stats](https://badge.mediaplus.ma/greenbinary/stescaro?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="font-size: 2em; font-weight: bold;">📊 GitHub Stats</span>
-  <div align="right">
-    <img width="20%" src="https://komarev.com/ghpvc/?username=stescaro&label=PROFILE+VIEWS">
-  </div>
+  <span style="font-size: 2.5em; font-weight: bold;">📊 GitHub Stats</span>
+  <img width="20%" src="https://komarev.com/ghpvc/?username=stescaro&label=PROFILE+VIEWS">
 </div>
 <div style="display: flex; justify-content: center;">
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=stescaro99&theme=transparent&show_icons=true">
