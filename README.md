@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Francesco
+## Hi there 👋
 Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
 I'm interested in game development and cybersecurity, but I love doing anything.
 
