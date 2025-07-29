@@ -90,6 +90,14 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
     <td align="center"></td>
     <td align="center"></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/stescaro99/Piscine-PHP-Symfony">Piscine-PHP-Symfony</a></td>
+    <td align="center">-----</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
 </table>
  
 ## ⚙️ Challenges and other projects:
