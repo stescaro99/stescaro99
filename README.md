@@ -82,6 +82,14 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
     <td align="center"><a href="https://github.com/stescaro99/ft_irc">ft_irc</a></td>
     <td align="center">125%</td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/stescaro99/ft_transcendence">ft_transcendence</a></td>
+    <td align="center">-----</td>
+    <td align="center"><a href="https://github.com/stescaro99/Piscine-PHP-Symfony">Inception</a></td>
+    <td align="center">-----</td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
 </table>
  
 ## ⚙️ Challenges and other projects:
