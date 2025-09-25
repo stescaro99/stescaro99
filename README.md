@@ -99,4 +99,4 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
 | [Aper Cocktail WebApp](https://github.com/stescaro99/Terranova) |
 | [Structured development](https://github.com/stescaro99/42xunifi-structured-development-2025-stescaro) |
 | [Rushes](https://github.com/stescaro99/Rushes) |
-| [Piscine-PHP-Symfony](href="https://github.com/stescaro99/Piscine-PHP-Symfony) |
+| [Piscine-PHP-Symfony](https://github.com/stescaro99/Piscine-PHP-Symfony) |
