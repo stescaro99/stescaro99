@@ -85,8 +85,8 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
   <tr>
     <td align="center"><a href="https://github.com/stescaro99/ft_transcendence">ft_transcendence</a></td>
     <td align="center">125%</td>
-    <td align="center"><a href="https://github.com/stescaro99/Piscine-PHP-Symfony">PHP/Symfony</a></td>
-    <td align="center">-----</td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
@@ -99,3 +99,4 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
 | [Aper Cocktail WebApp](https://github.com/stescaro99/Terranova) |
 | [Structured development](https://github.com/stescaro99/42xunifi-structured-development-2025-stescaro) |
 | [Rushes](https://github.com/stescaro99/Rushes) |
+| [Piscine-PHP-Symfony](href="https://github.com/stescaro99/Piscine-PHP-Symfony) |
