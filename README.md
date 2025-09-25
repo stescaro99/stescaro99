@@ -85,10 +85,6 @@ Hello there! I'm Samuele Tescaro (stescaro), student at 42Firenze.
   <tr>
     <td align="center"><a href="https://github.com/stescaro99/ft_transcendence">ft_transcendence</a></td>
     <td align="center">125%</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
  
